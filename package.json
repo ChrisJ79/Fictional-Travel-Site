@@ -1,17 +1,10 @@
-// {
-//   "name": "fictional-travel-site",
-//   "version": "1.0.0",
-//   "dependencies": {
-//     "jquery": "^3.4.1",
-//     "normalize.css": "^8.0.1"
-//   }
-// }
+
 
 {
   "name": "fictional-travel-site",
   "version": "1.0.0",
   "dependencies": {
-    "jquery": "3.4.1",
+    "jquery": "^3.4.1",
     "jquery-smooth-scroll": "2.2.0",
     "lazysizes": "4.0.1",
     "normalize.css": "^8.0.1",
