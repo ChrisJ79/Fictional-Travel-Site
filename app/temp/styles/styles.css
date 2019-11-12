@@ -1,4 +1,7 @@
-/*@import "modules/_large-hero";*/
+
+.large-hero {
+	position: relative;
+}
 
 body {
 	font-family: 'Roboto', sans-serif;
