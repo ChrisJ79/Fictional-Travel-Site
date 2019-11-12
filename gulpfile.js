@@ -5,6 +5,7 @@ var autoprefixer = require('autoprefixer');
 var cssVars = require('postcss-simple-vars');
 var cssNested = require('postcss-nested');
 var cssImport = require('postcss-import');
+var browsersync = require('browser-sync').create();
 
 
 gulp.task('default', function() {
